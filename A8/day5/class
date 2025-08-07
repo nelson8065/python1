@@ -1,0 +1,44 @@
+# x =(1,2,3)
+# # a,b,c =x unpacking
+# print(x)
+
+
+# print(dir(x))
+# print(help(list))
+
+# t1 =('a','b','c',[1,2,3],'d')
+
+# print(t1) big brackets 
+# colery brackets
+# pyanthesis
+
+# Unindexea, unordered ,no duplicates are allowed :
+ 
+# set()
+# list()
+# tuple()
+
+s = {1,2,3,4,5}
+s.add(7)
+# s.update(5,6)
+a = {}
+# s.update(a)
+# s.intersection(a)
+# print(s-a) difference (a-s) 
+# s.remove
+# print(a^s) symmetriic difference
+
+# set comprehension :
+# compact for
+# squared = {x **2 for x in rancge (5)}
+range (5)
+# print(squared)
+tupele1 (10,10,10)
+set = set(tuple1)
+x = tuple(set)
+
+
+
+
+
+
